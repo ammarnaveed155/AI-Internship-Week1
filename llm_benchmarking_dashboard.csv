@@ -1,0 +1,6 @@
+Model,Quantized (4-bit),Response Quality (sample),Inference Time (s),Tokens/sec,GPU Memory (GB),Context Length,Latency (ms/token),Cost Estimate (USD)
+Qwen2.5-0.5B-Instruct,False,Machine learning is a subset of artificial intelligence that enables computers to learn from data an...,2.14,15.45,2.98,32768,64.74,0.000208
+Zephyr-7B-beta (Mistral family),True,Machine learning is the field of computer science that enables computers to learn and make decisions...,4.06,9.61,4.87,32768,104.1,0.000395
+Phi-3.5-mini-instruct,False,Machine learning is a subset of artificial intelligence that involves the use of algorithms and stat...,1.72,25.05,10.97,131072,39.92,0.000167
+DeepSeek-R1-Distill-Qwen-1.5B,False,"Okay, so I need to explain machine learning in one sentence. Hmm, where do I start? I remember that ...",6.99,11.45,10.44,131072,87.35,0.000679
+TinyLlama-1.1B-Chat (Llama family),False,Machine Learning is a field that uses algorithms and data to improve the performance of machines and...,1.58,24.05,5.37,2048,41.58,0.000154
